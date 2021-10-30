@@ -11,7 +11,8 @@ namespace organizing_life.Entidades
         public int Id { get; set; }
         public string Tipo { get; set; }
         public string Descricao { get; set; }
-        public decimal Valor { get; set; }
+        public decimal ValorEstipulado { get; set; }
+        public decimal ValorFinal { get; set; }
         public DateTime DataDoRegistro { get; set; }
 
     }
