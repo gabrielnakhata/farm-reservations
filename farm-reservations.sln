@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "organizing-life", "organizing-life\organizing-life.csproj", "{CE5A8B0D-81F8-4CD1-8FE0-CB3F46450205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "farm-reservations", "farm-reservations\farm-reservations.csproj", "{99F7E269-347C-46A7-943B-F2BA2ED9112D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CE5A8B0D-81F8-4CD1-8FE0-CB3F46450205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE5A8B0D-81F8-4CD1-8FE0-CB3F46450205}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CE5A8B0D-81F8-4CD1-8FE0-CB3F46450205}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CE5A8B0D-81F8-4CD1-8FE0-CB3F46450205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F7E269-347C-46A7-943B-F2BA2ED9112D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F7E269-347C-46A7-943B-F2BA2ED9112D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F7E269-347C-46A7-943B-F2BA2ED9112D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F7E269-347C-46A7-943B-F2BA2ED9112D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
