@@ -1,3 +1,3 @@
-# organizing-life
-💻 A ideia para o programa é gerar 📈 relatórios para autoanálise. ☑
-🙎‍♂️ O usuário interage, cadastrando 📝 suas preferências e entregando dados ao sistema.
+# farm-reservations
+💻 A ideia para este sistema web é facilitar o agendamento de reservas, gerando o contrato e a opção para o pagamento. ☑
+🙎‍♂️ Um usuário acessou um site de uma empresa que oferece reservas para chácaras em Minas Gerais, resolveu fazer um cadastro para acessar a área restrita destinada as reservas.📝
